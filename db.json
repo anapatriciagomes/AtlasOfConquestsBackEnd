@@ -3,16 +3,27 @@
     {
       "email": "test@test.com",
       "password": "JustTesting!",
-      "visitedCountries": ["Portugal", "Spain"],
-      "wishlistCountries": ["Australia", "Canada"],
       "id": 1
+    }
+  ],
+  "visitedCountries": [
+    {
+      "country": "Portugal",
+      "userId": 1
     },
     {
-      "email": "test2@test.com",
-      "password": "JustTestingAgain!",
-      "visitedCountries": ["Brazil", "Argentina"],
-      "wishlistCountries": ["United Kingdom", "United States"],
-      "id": 2
+      "country": "Spain",
+      "userId": 1
+    }
+  ],
+  "wishlistCountries": [
+    {
+      "country": "Australia",
+      "userId": 1
+    },
+    {
+      "country": "Canada",
+      "userId": 1
     }
   ]
 }
