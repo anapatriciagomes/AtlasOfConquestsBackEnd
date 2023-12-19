@@ -4,26 +4,50 @@
       "email": "test@test.com",
       "password": "JustTesting!",
       "id": 1
+    },
+    {
+      "email": "test2@test.com",
+      "password": "JustTestingAgain!",
+      "id": 2
     }
   ],
-  "visitedCountries": [
+  "visited": [
     {
       "country": "Portugal",
-      "userId": 1
+      "userId": 1,
+      "id": 1
     },
     {
       "country": "Spain",
-      "userId": 1
+      "userId": 1,
+      "id": 2
+    },
+    {
+      "userId": 2,
+      "country": "France",
+      "id": 3
+    },
+    {
+      "userId": 2,
+      "country": "Indonesia",
+      "id": 4
     }
   ],
-  "wishlistCountries": [
+  "wishlist": [
     {
       "country": "Australia",
-      "userId": 1
+      "userId": 1,
+      "id": 1
     },
     {
       "country": "Canada",
-      "userId": 1
+      "userId": 1,
+      "id": 2
+    },
+    {
+      "userId": 2,
+      "country": "United Kingdom",
+      "id": 3
     }
   ]
 }
