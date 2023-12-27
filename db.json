@@ -9,6 +9,11 @@
       "email": "test2@test.com",
       "password": "JustTestingAgain!",
       "id": 2
+    },
+    {
+      "email": "newtest@test.com",
+      "password": "newtest",
+      "id": 3
     }
   ],
   "visited": [
@@ -16,16 +21,6 @@
       "country": "Portugal",
       "userId": 1,
       "id": 1
-    },
-    {
-      "country": "Spain",
-      "userId": 1,
-      "id": 2
-    },
-    {
-      "userId": 2,
-      "country": "France",
-      "id": 3
     },
     {
       "userId": 2,
@@ -36,6 +31,26 @@
       "userId": 1,
       "country": "Brazil",
       "id": 5
+    },
+    {
+      "country": "Cameroon",
+      "userId": 1,
+      "id": 6
+    },
+    {
+      "country": "France",
+      "userId": 2,
+      "id": 7
+    },
+    {
+      "country": "Portugal",
+      "userId": 3,
+      "id": 8
+    },
+    {
+      "country": "Brazil",
+      "userId": 3,
+      "id": 9
     }
   ],
   "wishlist": [
@@ -53,6 +68,11 @@
       "userId": 2,
       "country": "United Kingdom",
       "id": 3
+    },
+    {
+      "country": "Australia",
+      "userId": 3,
+      "id": 4
     }
   ]
 }
