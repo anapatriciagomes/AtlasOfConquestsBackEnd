@@ -14,7 +14,8 @@
       "email": "newtest@test.com",
       "password": "newtest",
       "id": 3
-    }
+    },
+    { "email": "patriciatest@test.com", "password": "patriciatest", "id": 4 }
   ],
   "visited": [
     {
@@ -51,6 +52,91 @@
       "country": "Brazil",
       "userId": 3,
       "id": 9
+    },
+    {
+      "country": "Portugal",
+      "userId": 4,
+      "id": 10
+    },
+    {
+      "country": "Spain",
+      "userId": 4,
+      "id": 11
+    },
+    {
+      "country": "Italy",
+      "userId": 4,
+      "id": 12
+    },
+    {
+      "country": "France",
+      "userId": 4,
+      "id": 13
+    },
+    {
+      "country": "Ireland",
+      "userId": 4,
+      "id": 14
+    },
+    {
+      "country": "United Kingdom",
+      "userId": 4,
+      "id": 15
+    },
+    {
+      "country": "Netherlands",
+      "userId": 4,
+      "id": 16
+    },
+    {
+      "country": "Belgium",
+      "userId": 4,
+      "id": 17
+    },
+    {
+      "country": "Switzerland",
+      "userId": 4,
+      "id": 18
+    },
+    {
+      "country": "United States",
+      "userId": 4,
+      "id": 19
+    },
+    {
+      "country": "Brazil",
+      "userId": 4,
+      "id": 20
+    },
+    {
+      "country": "Argentina",
+      "userId": 4,
+      "id": 21
+    },
+    {
+      "country": "Dominican Republic",
+      "userId": 4,
+      "id": 22
+    },
+    {
+      "country": "Greece",
+      "userId": 4,
+      "id": 23
+    },
+    {
+      "country": "Montenegro",
+      "userId": 4,
+      "id": 24
+    },
+    {
+      "country": "Croatia",
+      "userId": 4,
+      "id": 25
+    },
+    {
+      "country": "Andorra",
+      "userId": 4,
+      "id": 26
     }
   ],
   "wishlist": [
@@ -73,6 +159,66 @@
       "country": "Australia",
       "userId": 3,
       "id": 4
+    },
+    {
+      "country": "Australia",
+      "userId": 4,
+      "id": 5
+    },
+    {
+      "country": "Japan",
+      "userId": 4,
+      "id": 6
+    },
+    {
+      "country": "Thailand",
+      "userId": 4,
+      "id": 7
+    },
+    {
+      "country": "Cape Verde",
+      "userId": 4,
+      "id": 8
+    },
+    {
+      "country": "Iceland",
+      "userId": 4,
+      "id": 9
+    },
+    {
+      "country": "Finland",
+      "userId": 4,
+      "id": 10
+    },
+    {
+      "country": "Sweden",
+      "userId": 4,
+      "id": 11
+    },
+    {
+      "country": "Norway",
+      "userId": 4,
+      "id": 12
+    },
+    {
+      "country": "Denmark",
+      "userId": 4,
+      "id": 13
+    },
+    {
+      "country": "Austria",
+      "userId": 4,
+      "id": 14
+    },
+    {
+      "country": "Canada",
+      "userId": 4,
+      "id": 15
+    },
+    {
+      "country": "Peru",
+      "userId": 4,
+      "id": 16
     }
   ]
 }
