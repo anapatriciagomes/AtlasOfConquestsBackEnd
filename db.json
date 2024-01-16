@@ -15,8 +15,8 @@
       "password": "newtest",
       "id": 3
     },
-    { "email": "patriciatest@test.com", "password": "patriciatest", "id": 4 }, { "email": "ruben@test.com", "password": "rubentest", "id": 5 },
-    
+    { "email": "patriciatest@test.com", "password": "patriciatest", "id": 4 },
+    { "email": "ruben@test.com", "password": "rubentest", "id": 5 },
   ],
   "visited": [
     {
