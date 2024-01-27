@@ -24,6 +24,11 @@
       "email": "ruben@test.com",
       "password": "rubentest",
       "id": 5
+    },
+    {
+      "email": "margarida.cruz.gomes@gmail.com",
+      "password": "Abcd1234!",
+      "id": 6
     }
   ],
   "visited": [
@@ -228,6 +233,61 @@
       "country": "Peru",
       "userId": 4,
       "id": 16
+    },
+    {
+      "userId": 6,
+      "country": "Argentina",
+      "id": 17
+    },
+    {
+      "userId": 6,
+      "country": "Australia",
+      "id": 18
+    },
+    {
+      "userId": 6,
+      "country": "Austria",
+      "id": 19
+    },
+    {
+      "userId": 6,
+      "country": "Bahamas",
+      "id": 20
+    },
+    {
+      "userId": 6,
+      "country": "Cambodia",
+      "id": 21
+    },
+    {
+      "userId": 6,
+      "country": "Bolivia",
+      "id": 22
+    },
+    {
+      "userId": 6,
+      "country": "Cape Verde",
+      "id": 23
+    },
+    {
+      "userId": 6,
+      "country": "Canada",
+      "id": 24
+    },
+    {
+      "userId": 6,
+      "country": "Cuba",
+      "id": 25
+    },
+    {
+      "userId": 6,
+      "country": "Mexico",
+      "id": 26
+    },
+    {
+      "userId": 6,
+      "country": "São Tomé and Príncipe",
+      "id": 27
     }
   ]
 }
